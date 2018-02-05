@@ -1,10 +1,10 @@
-# GitHub-test
+# GitHub Training Session Inclass Note
 
 ## Contents
 1. [Introduction](#1-introduction)
-2. [Intro to GitHub]()
-3. [Communication]()
-4. [Advanced GitHub Usage]()
+2. [Intro to GitHub](#2-intro-to-github)
+3. [Communication](#3-communication)
+4. [Advanced GitHub Features](#4-advanced-github-features)
 
 ## 1. Introduction
 ### 1-1. What is Open Source?
@@ -85,7 +85,7 @@ There are some editors for markdown documents:
 ### 3-2. Draw: Mockup Tool
 Please refer to this program [Balsamiq](https://balsamiq.com/products/).
 
-## 4. Advanced GitHub Usage
+## 4. Advanced GitHub Features
 ### 4-1. Issues
 Issue is a place where other developers can share their thoughts or issues regarding codes on the repository. Moreover, people can ask and answer on the projects on this sub-menu.
 
