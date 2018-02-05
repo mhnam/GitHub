@@ -1,4 +1,4 @@
-# GitHub-test
+# GitHub
 
 This repository is to summarise and practice what I have learnt through GitHub Starter Session happened on 5th of February, 2018.
 
